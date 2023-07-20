@@ -2,8 +2,9 @@
 
 ## Descrição do Projeto
 
-O projeto Accounts é uma aplicação CRUD (Create, Read, Update, Delete) desenvolvida em Node.js, que permite realizar operações básicas de um sistema bancário, como saque, criação de conta, depósito e transferência entre contas. Foi desenvolvido no curso da Udemy "Node.js do Zero a Maestria com diversos Projetos" - Matheus Battisti.
- 
+O projeto Accounts é uma aplicação CRUD (Create, Read, Update, Delete) desenvolvida em Node.js, que permite realizar operações básicas de um sistema bancário, como saque, criação de conta, depósito e transferência entre contas.
+
+Feito no curso da Udemy Node.js do Zero a Maestria com diversos Projetos - Matheus Battisti 
 
 ## Funcionalidades
 
